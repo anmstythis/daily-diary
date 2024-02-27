@@ -130,6 +130,8 @@ namespace daily_diary
         }
         private void calendar_SelectedDateChanged(object sender, System.Windows.Controls.SelectionChangedEventArgs e)
         {
+            titlebox.Text = string.Empty;
+            description.Text = string.Empty;
             showNotes();
         }
     }

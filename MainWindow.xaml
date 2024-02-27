@@ -29,7 +29,7 @@
         <TextBox x:Name="titlebox" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" FontFamily="Century" FontSize="14"/>
         <TextBlock Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" Text="Описание" HorizontalAlignment ="Center" FontSize="16" FontFamily="Century"/>
         <TextBox x:Name="description" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" FontFamily="Century" FontSize="14"/>
-        <Image x:Name="gifimage" gif:ImageBehavior.AnimatedSource="calend.gif"  Grid.Row="6" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Right" VerticalAlignment="Center" Source="/calend.gif" Stretch="UniformToFill" />
+        <Image x:Name="gifimage" gif:ImageBehavior.AnimatedSource="calend.gif"  Grid.Row="6" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Right" VerticalAlignment="Center" Source="/calend.gif" Stretch="Fill" />
         <Button x:Name="deletebutton" Grid.Row="7" Content="Удалить запись" FontSize="16" FontFamily="Century" Background="#FFA2AAD4" BorderBrush="#FF0C0A3C" FontStyle="Italic" FontWeight="Bold" Click="deletebutton_Click"/>
         <Button x:Name="savebutton" Grid.Row="7" Grid.Column="1" Content="Создать запись" FontSize="16" FontFamily="Century" Background="#FFA2AAD4" BorderBrush="#FF0C0A3C" FontStyle="Italic" FontWeight="Bold" Click="savebutton_Click"/>
         <Button x:Name="updatebutton" Grid.Row="7" Grid.Column="2" Content="Сохранить запись" FontSize="16" FontFamily="Century" Background="#FFA2AAD4" BorderBrush="#FF0C0A3C" FontStyle="Italic" FontWeight="Bold" Click="updatebutton_Click"/>
