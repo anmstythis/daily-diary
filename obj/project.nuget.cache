@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pBlC41kQZuKVyji4zbVdws6X8nWTsbdN+ZXnBB3FKGve4ClxBSHE79RaFRtSwCKEFtm8tMrUJC54nL1kXJUCqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\My\\OneDrive\\Документы\\конспекты\\ОАиП C#\\daily_diary\\daily_diary\\daily_diary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\My\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\My\\.nuget\\packages\\wpfanimatedgif\\2.0.2\\wpfanimatedgif.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
